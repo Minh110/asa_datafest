@@ -1,0 +1,9 @@
+# 1.7GB proprietary data folder
+For Students-Updated2022-03-28/
+
+
+# Ignore Mac system files
+.DS_store
+
+# Jupyter Notebook
+.ipynb_checkpoints
