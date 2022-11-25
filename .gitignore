@@ -1,5 +1,5 @@
 # 1.7GB proprietary data folder
-data_files/
+data_files/*
 
 
 # Ignore Mac system files
